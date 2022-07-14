@@ -1,0 +1,27 @@
+{
+  "name": "firebase-cloud-messaging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bitwise": "^2.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase": "^8.2.9",
+    "firebase-admin": "^9.5.0",
+    "firebase-login": "^1.0.0",
+    "googleapis": "^67.1.1",
+    "hex-to-binary": "^1.0.1",
+    "init": "^0.1.2",
+    "login": "^0.8.0",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.7.0"
+  }
+}
